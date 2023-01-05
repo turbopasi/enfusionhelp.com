@@ -1,0 +1,18 @@
+<svg xml:space="preserve" style="enable-background:new 0 0 120 120;" viewBox="0 0 120 120" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g id="Ebene_1">
+</g>
+<g id="Ebene_2">
+	<linearGradient y2="111.9927" x2="99.8369" y1="9.4266" x1="21.2708" gradientUnits="userSpaceOnUse" id="SVGID_1_">
+		<stop style="stop-color:#002B9D" offset="0.0379"></stop>
+		<stop style="stop-color:#03D1FF" offset="1"></stop>
+	</linearGradient>
+	<path d="M60,0C30.94,0,6.71,20.66,1.19,48.09l39.32,39.16H6.55C16.48,106.68,36.68,120,60,120c33.14,0,60-26.86,60-60
+		S93.14,0,60,0z M69.69,107.48L15.33,53.31h54.36V107.48z M70,46.92L37,13h33V46.92z" class="st0"></path>
+	<polygon points="112,53.21 98.98,53.21 98.98,41 89.21,41 89.21,53.21 77,53.21 77,62.98 89.21,62.98 89.21,76 
+		98.98,76 98.98,62.98 112,62.98" class="st1"></polygon>
+</g>
+</svg>
